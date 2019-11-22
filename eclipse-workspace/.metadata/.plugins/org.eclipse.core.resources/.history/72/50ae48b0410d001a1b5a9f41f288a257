@@ -1,0 +1,88 @@
+package day55_Polymorphism;
+
+import java.util.ArrayList;
+
+/*
+ WarmUp:			
+	1. create an abstract class called ScrumTeam
+			Data: Name
+				  JobTitile
+				  Salary
+
+			Actions: DailyStandUp();
+					 Demo();
+
+	2. Create the following sub classes of ScrumTeam:
+				1. Testers:
+						Actions: FindBug
+
+				2. Developers:
+						Actions: FixBug
+
+	3. Create a class called BOF
+			create Array of Testers named sdets, at leats store two objects
+			create array of Developers named dev, at least store three objects
+
+			create ArrayList of ScrumTeam:
+					store all the developer' and testers' objects
+
+
+ */
+
+
+abstract class Scrumteam{
+	public String Name,JobTitle;
+	public double Salary;
+	public abstract void DailyStanUp();
+	public abstract void Demo();
+	public void getEmployeeInfo() {
+		System.out.println("=================================");
+		System.out.println("Employee name is "+Name);
+		System.out.println(" Job Title "+ JobTitle);
+		System.out.println("Salary "+Salary);
+		System.out.println("==================================");
+	}
+}
+/*
+ extends used when we have 2 classes or 2 interfaces
+ Implements key word uses when we have a class and an interface ===> a class implement the interface
+ ==== >one super class can have multiple sub class
+ ==== >class can implement multiple interfaces 
+ */
+class Testers extends Scrumteam{
+    public Testers(String Name,String JobTitle,double Salary) {
+    	this.Name=Name;
+    	this.JobTitle=JobTitle;
+    	this.Salary=Salary;
+    	 	
+    }
+	@Override
+	public void DailyStanUp() {
+		
+	System.out.println("Tester "+Name+" is Talking");
+	
+	}
+	@Override
+	public void Demo() {
+		
+	System.out.println("Tester"+Name+" is doing demo");
+	}
+}
+public class BOA {
+	public static void main(String[] args) {
+		
+// reference-type    reference name   existing constructor
+		Testers       Madina = new    Testers("Madina", "SDET", 120000);
+		Testers       hisham =new    Testers("hisham", "automation", 100000);
+		Testers       erhan  =new Testers("Erhan", "manual tester", 50000);
+				Madina.DailyStanUp();
+				
+	  Testers[]testers= {Madina,hisham,erhan};
+	  for(Testers each:testers) {
+		each.getEmployeeInfo();  
+	  }
+		
+	}
+	
+
+}
