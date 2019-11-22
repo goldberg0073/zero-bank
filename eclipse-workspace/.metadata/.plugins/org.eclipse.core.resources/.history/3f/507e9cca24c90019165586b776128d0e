@@ -1,0 +1,32 @@
+package day10_IfStatement;
+
+public class Excercice_class {
+public static void main(String[] args) {
+	
+	int age =30;
+	boolean GoodPerson=true;
+
+	if (age>=18) {
+		
+	if (GoodPerson) {System.out.println("alcohol is bad for your health");}
+	         
+	    else {System.out.println("you can buy cigarettes");} 
+	
+		if (age>=21) {System.out.println("you can buy hookah");}
+		if (age>=25) {System.out.println("you can buy alcohol");}
+	
+	}
+         
+	else {System.out.println("you can buy milk");}
+	
+	}
+
+}
+	
+	
+	
+	
+
+
+
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;exercise170.java&apos; to &apos;Summer 2019_Java/src/repit&apos;&#x0A;- Original project: &apos;Summer 2019_Java&apos;&#x0A;- Destination element: &apos;Summer 2019_Java/src/repit&apos;&#x0A;- Original element: &apos;exercise170.java&apos;" description="Copy compilation unit" destination="/src&lt;repit" element1="/src&lt;{exercise170.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1571091546340" units="1" version="1.0"/>
+</session>

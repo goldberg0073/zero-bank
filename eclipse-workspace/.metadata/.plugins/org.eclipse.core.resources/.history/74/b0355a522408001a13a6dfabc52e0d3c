@@ -1,0 +1,25 @@
+package day_07_unarycoperators;
+
+public class SolutionN {
+	
+	public static int[] Solution(int N){
+
+		int[]result=new int[N]; // 4
+	   int sum=0;
+	   for(int i=0;i<N-1;i++) {
+		   result[i]=i;
+		   sum+=i; // 0+1+2=3
+	   }
+	result[N-1]=-sum;
+	return result;
+	   
+	}   
+	public static void main(String[] args) {
+		
+		Solution(65);
+		
+		
+		
+	}
+
+}

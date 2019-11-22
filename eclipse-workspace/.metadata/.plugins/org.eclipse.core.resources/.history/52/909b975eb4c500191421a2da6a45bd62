@@ -1,0 +1,28 @@
+package day09;
+
+public class ClassQouiz {
+
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		boolean a=!!!!!false;// ! ! ! ! ! false ==> !false == true;  twos exclamation marks eliminate each others
+	            // !!!true
+		System.out.println(a);
+		System.out.println(!!!true); // output is false ==> !true ==false
+		// question 2 
+		boolean result=!false!=("batch12" !="Best BAtch Ever");
+		// true != true
+		// false
+		System.out.println(result);
+	}
+	
+	
+	
+	
+	
+	
+	
+}

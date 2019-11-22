@@ -1,0 +1,50 @@
+package d52_interface;
+
+public interface InterfaceIntro {  // this is not a class " it's a blueprint" so cannot be super class(can not be inherited)
+	
+	public abstract void methodA();
+	
+
+}
+//class Test extends InterfaceIntro{        this class Test can not extends the interface "class!!!!!"
+//	                                       in that case we use the Implements key work 
+//}                     
+
+class Test implements InterfaceIntro{
+	
+	@Override
+	public void methodA() {
+		
+	}
+	
+	
+	public static int[] Solution(int N){
+
+		int[] result = new int[N];
+
+		int sum = 0;
+
+		for(int i=0; i < N-1; i++) {
+
+		result[i] =i;
+
+		sum += i;
+
+		}
+
+		result[N-1] = -sum;
+
+		return result;
+
+		    }
+	
+	public static void main(String[] args) {
+		
+		
+		Solution(4);
+		System.out.println(Solution(4));
+		
+	}
+	
+	
+}

@@ -1,0 +1,19 @@
+package MenteringClass;
+
+public class MyFirstOOP_project {
+public static void main(String[] args) {
+		
+		//Salaried_Employees emp1=new Salaried_Employees("muhtar",78,"5937 kingslanding ",1100,"Java instructor",10,850);
+		Employees emp1=new Employees();
+		emp1.Name="muhtar";
+		emp1.Age=78;
+		emp1.job="Java instructor";
+		emp1.Salary=1100;
+		
+		System.out.println(emp1.getSalary());
+		emp1.getInfo();
+		
+		
+	}
+
+}

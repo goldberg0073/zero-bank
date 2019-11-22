@@ -1,0 +1,29 @@
+package Day03_variables;
+
+public class Escapesequences {
+
+	
+	/*
+	 \n :
+	 
+	  
+	 
+	  
+	  
+	 */
+	
+	
+	public static void main(String[] args) {
+		System.out.println("Cybertek\n Batch 12 students");
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+}

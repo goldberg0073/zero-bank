@@ -1,0 +1,48 @@
+package day09;
+
+public class Day09_review {
+
+	public static void main(String[] args) {
+		
+		/*
+		 Relational Operators:
+		
+		 
+		 >  : greater than          x=10   y =9       only returns true when x > y ;
+		 >= : greater than or equal                   returns true : either greater or equal;                    
+		 <  : less than                               only returns true when x<y ;
+		 <= : less than or equal                       returns true : either less or equal;
+		 == : 
+		 != : 
+		 
+		 Logical Operators 
+		 
+		 && :
+		 || :
+		 
+		 
+		 */
+		  
+		
+		System.out.println('a'>'A');   // true
+		System.out.println('a'<'A');  // false 
+		System.out.println('A'<='a');
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+}

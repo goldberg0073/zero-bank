@@ -1,0 +1,124 @@
+package day09;
+
+public class ClassQouiz {
+
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		boolean a=!!!!!false;// ! ! ! ! ! false ==> !false == true;  twos exclamation marks eliminate each others
+	            // !!!true
+		System.out.println(a);
+		System.out.println(!!!true); // output is false ==> !true ==false
+		// question 2 
+		boolean result=!false!=("batch12" !="Best BAtch Ever");
+		// true != true
+		// false
+		System.out.println(result);
+		
+		//question 03:
+			int x =100;
+		double y =x+=100/20; // x=105, y=105
+		System.out.println(x);
+		
+		
+		//question04:
+		
+		boolean A=128>'9'  ||  128==127 ;
+		         //true         // false  ==> true
+		
+		System.out.println(A);
+		
+		//question 05:
+		 boolean StupidOperators = 10 >= 20  &&                  'a'>'b';
+		                           //false   && ==> false         // ASCII table false 
+		 
+		 System.out.println(StupidOperators);
+		
+		 //question 06:
+		 
+		
+		 
+		 int z=100;
+		         // System.out.println("z>100 is :"+H);   H is not defined before this line .
+		 boolean H=z>100; 
+		 //     compile error
+		 
+		 // question 10:
+		 System.out.println(5+7+"8"); // 12+"8" ==> "128" however, ("8"+5+7) ==> "857"
+		 System.out.println("8"+5+7);
+		 System.out.println(1+11+"3" == "123");
+		                    //12+"3" ==  "123"
+		                    // "123"   ==  "123" ==> true
+		     
+		 String str ="Cybertek";
+		 str = str + 2019+ true;
+		 System.out.println(str);
+		 
+		 // Question 12:
+		 int numberA= 100;
+		     numberA +=300; //400
+		     
+		System.out.println(numberA++ + "\n "+numberA);     
+		 //                   400             401
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+}

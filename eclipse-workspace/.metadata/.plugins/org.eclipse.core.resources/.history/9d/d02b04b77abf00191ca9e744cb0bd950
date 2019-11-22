@@ -1,0 +1,96 @@
+package Day03_variables;
+
+public class warmup {
+
+    
+
+/*
+    1.Cucumber
+    2.Onion
+    3.Green papper
+    4.Tomatoes	
+    5.Carrots
+
+
+*/
+   
+	
+	public static void main(String[] args) {
+		
+	
+	
+	
+	float Cucumber =2.5f;
+    double cucumber2=2.5f;
+    
+    
+    float Onion =1.5f;
+    double Onion1=1.5;
+    
+    byte GreenPepper=2;
+    int GreenPepper1=2;
+    short GreenPepper3=2;
+    double GreenPepper4=2;
+    long GreenPepper5=2l;
+    float GreenPepper6=2;
+    
+    System.out.println(GreenPepper=2);
+    System.out.println(GreenPepper=2);
+    System.out.println(GreenPepper3);
+    System.out.println(GreenPepper4);
+    System.out.println(GreenPepper5);
+    System.out.println(GreenPepper6);
+  
+    boolean result2=true;
+    boolean result=9>3;
+    boolean result1=false;
+    
+    System.out.println("The movie \'game of thrones\'is a good movie");
+    
+    float number1=5555;
+    double number2=5555f;
+    
+    System.out.println(number2);
+    
+    
+    System.out.println(result1);
+    System.out.println(result);
+    System.out.println(result2);
+    
+    
+     
+    double d=50000;
+    float f=(float)d;
+     System.out.println(f);
+    
+    char char11 = 65531;
+    System.out.println(char11);
+     
+    float f1=5000;
+     double d1=f1;
+     System.out.println(d1);
+     
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    	
+    
+    
+    
+    
+    
+
+
+}
+
+}

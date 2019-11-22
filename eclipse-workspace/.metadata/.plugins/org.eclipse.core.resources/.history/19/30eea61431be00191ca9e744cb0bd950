@@ -1,0 +1,16 @@
+package Day03_variables;
+
+public class Practicehome {
+	
+	public static void main(String[] args) {
+	
+		// Raja Club Athletic
+		System.out.println("Raja Club Athletic");
+	    System.out.print("Raja Club Athletic");
+		
+	}
+	
+	
+	
+
+}

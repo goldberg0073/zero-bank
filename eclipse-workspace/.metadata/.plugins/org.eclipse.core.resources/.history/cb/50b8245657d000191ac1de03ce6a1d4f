@@ -1,0 +1,22 @@
+package day20_Scanner;
+
+import java.util.*;
+
+public class Practice {
+	
+	
+	public static void main(String[] args) {
+		
+		
+		   Scanner scan = new Scanner(System.in);
+		    System.out.println("Enter number:");
+				int x = scan.nextInt();
+				//WRITE YOUT CODE HERE
+		  
+		    
+		    x=(x>=5)?x:-x;
+		    
+		
+	}
+
+}

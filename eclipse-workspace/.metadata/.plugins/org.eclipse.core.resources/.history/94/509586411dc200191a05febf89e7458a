@@ -1,0 +1,24 @@
+package Day03_variables;
+
+
+public class Q {
+	
+	public static void main(String[] a) {
+
+		
+	
+	char myChar=65;
+	System.out.println(myChar);
+	
+	
+	
+		
+		double main=1;
+		
+		
+		
+		double Length =3.5;
+	    double width =1.55;
+	
+	}
+	}

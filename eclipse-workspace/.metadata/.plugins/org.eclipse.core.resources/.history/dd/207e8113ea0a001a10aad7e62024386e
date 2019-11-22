@@ -1,0 +1,11 @@
+package d54_polymorphism;
+
+
+
+abstract class Test {
+
+}
+
+public class Test extends Test {
+	
+}

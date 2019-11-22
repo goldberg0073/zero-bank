@@ -1,0 +1,50 @@
+package day09;
+
+public class If_Statement {
+
+	
+	/*
+	 if statements:
+	 
+	  single if statement :
+	  
+	  if (boolean expression)  {
+	  
+	     some codes to run
+	 
+	  }
+	      if block only gets executed if the conditions is true 
+	   
+	 */
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+	if (true)   {
+		System.out.println("hello");
+		System.out.println("happy friday");
+		System.out.println("tomorow is day off");
+		System.out.println("Dima raja ");
+	}
+	 int a =1000;
+	 if (a++==1001) {
+		 a=2000;
+		 System.out.println("a is increased");
+		 
+		  
+	 }
+		 
+	System.out.println(a+"\n");	
+		
+		
+		
+		
+	}
+
+
+
+
+
+}

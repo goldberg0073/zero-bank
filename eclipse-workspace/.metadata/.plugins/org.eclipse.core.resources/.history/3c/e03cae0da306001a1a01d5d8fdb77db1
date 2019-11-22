@@ -1,0 +1,32 @@
+package MenteringClass;
+
+public class Person {
+	
+	String Name;
+	byte Age;
+	private String Address;
+	
+	public String getAddress() {
+		return Address;
+	}
+	public void setAddress(String Address) {
+		this.Address=Address;
+	}
+
+	
+	public void getInfo() {
+		System.out.println("The emplyee name is "+Name+"adress is "+Address+"the age is "+Age);
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		//Salaried_Employees emp1=new Salaried_Employees("muhtar",78,"5937 kingslanding ",1100,"Java instructor",10,850);
+		Employees emp1=new Employees();
+		System.out.println(emp1.getSalary());
+		emp1.getInfo();
+		
+		
+	}
+}

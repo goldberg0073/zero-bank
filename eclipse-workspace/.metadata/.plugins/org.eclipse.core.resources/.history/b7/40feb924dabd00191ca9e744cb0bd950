@@ -1,0 +1,30 @@
+package Day03_variables;
+
+public class Escapesequences {
+
+	
+	/*
+	 \n : starts from a new line
+	 
+	  
+	 
+	  
+	  
+	 */
+	
+	
+	public static void main(String[] args) {
+		System.out.println("Cybertek\n Batch 12 students");
+		
+		System.out.print("Tomorrow is off");
+		System.out.println("True");
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,36 @@
+package day10_IfStatement;
+
+public class Excercice_class {
+public static void main(String[] args) {
+
+
+int Age=30;
+boolean GoodPerson=true;
+
+if (Age>=18) {
+	if (GoodPerson) { 
+		System.out.println("Alcohool is not good for your health");
+	}
+	else { 
+		System.out.println("you can buy cigarettes");
+	}
+
+
+}
+
+
+
+
+
+
+
+
+}
+}	
+	
+	
+	
+
+
+
+

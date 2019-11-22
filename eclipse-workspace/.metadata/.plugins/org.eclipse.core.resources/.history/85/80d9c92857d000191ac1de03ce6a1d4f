@@ -1,0 +1,37 @@
+package day20_Scanner;
+
+
+
+public class Practice {
+	
+	
+	public static void main(String[] args) {
+		
+		
+		/*
+		
+Enter a number:
+10
+10 is positive
+Enter a number:
+-55
+-55 is negative
+Enter a number:
+0
+it is zero
+		 */
+	
+	int number=0;
+	if (number>0) {
+		System.out.println("Enter a number:\n"+number+" is positive");
+		           }
+	else if (number<0) {
+		System.out.println("Enter a number:\n"+number+" is negative");
+	}
+	else {
+		System.out.println("it is zero");
+	}
+		
+	}
+
+}

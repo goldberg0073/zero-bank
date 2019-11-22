@@ -1,0 +1,15 @@
+package day7_unary;
+
+public class Hicham_raja {
+
+
+public static void main(String[] args) {
+	
+	
+ System.out.println("bonjour tout le monde\t");
+	
+}
+
+
+
+}

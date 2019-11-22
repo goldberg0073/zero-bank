@@ -1,0 +1,31 @@
+package day7_unary;
+
+public class Hicham_raja {
+
+public static void main(String[] args) {
+	
+	
+	int x=9;
+	boolean result=(x++<10);
+	if (result) {
+		System.out.println(x++ + "hello world");
+	}
+	else {
+		System.out.println(x++ + "hello universe");
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
+}	
+
+	
+	
+	
+
+

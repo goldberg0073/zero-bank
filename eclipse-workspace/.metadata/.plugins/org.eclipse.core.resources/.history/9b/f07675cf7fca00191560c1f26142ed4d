@@ -1,0 +1,42 @@
+package day7_unary;
+
+public class Hicham_raja {
+
+public static void main(String[] args) {
+	
+	
+
+	boolean result = true;
+
+	if(result) {
+
+	System.out.println("it's true");
+
+	}
+
+	else {
+
+	System.out.println("it's false");
+
+	}
+
+	if(result) {
+
+	System.out.println("None of the above");}
+
+	 
+	System.out.println("We have picnic on ");
+
+}
+
+		
+
+}		
+
+		
+
+	
+	
+	
+
+

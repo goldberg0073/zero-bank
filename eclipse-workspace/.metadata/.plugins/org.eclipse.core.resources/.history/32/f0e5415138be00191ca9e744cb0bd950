@@ -1,0 +1,18 @@
+package Day03_variables;
+
+public class Practicehome {
+	
+	public static void main(String[] args) {
+	
+		// Raja Club Athletic
+		System.out.println("Raja Club Athletic\r");
+	    System.out.println("Raja Club Athletic");
+	    System.out.println("Raja Club Athletic");
+	    System.out.println("she said \"hello!\"to me");
+	    System.out.println("she said \'Hello!\'to me");
+	}
+	
+	
+	
+
+}

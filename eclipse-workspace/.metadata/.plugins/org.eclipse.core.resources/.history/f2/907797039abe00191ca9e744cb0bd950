@@ -1,0 +1,27 @@
+package Day03_variables;
+
+public class Practicehome {
+	
+	public static void main(String[] args) {
+	
+		// Raja Club Athletic
+		System.out.println("Raja Club Athletic\n");
+	    System.out.println("Raja Club Athletic\n");
+	    System.out.println("Raja Club Athletic");
+	    System.out.println("she said \"hello!\"to me");
+	    System.out.println("she said \'Hello!\'to me");
+	
+	// club athletic
+	    byte b1=3;
+	    System.out.println(b1);
+	    long l1=5000l;
+	    System.out.println(l1);
+	    float f1=7859385987f;
+	    System.out.println(f1);
+	
+	}
+	
+	
+	
+
+}

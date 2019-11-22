@@ -1,0 +1,23 @@
+package Day03_variables;
+
+public class Println_vs_print {
+
+	
+	
+	//the only characters we can give for any name is : _ and $
+
+	
+	
+	public static void main(String[] args) {
+		System.out.println("Hello Cybertek"); //prints from a new line
+	    System.out.println("school");
+	    
+	    System.out.println("===============================================");
+	
+	    System.out.print("Hello cybertek"); 
+	    System.out.print("School");
+	    
+	    
+	}
+	
+}

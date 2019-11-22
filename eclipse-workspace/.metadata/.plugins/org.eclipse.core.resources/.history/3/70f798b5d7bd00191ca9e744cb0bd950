@@ -1,0 +1,13 @@
+package Day03_variables;
+
+public class NameJava {
+      public static void main (String[] args) {
+     
+   	  System.out.println("Ulkar mahaddin");
+      System.out.println("Juline Babajanov");  
+      System.out.println("Julia Bobin"); 
+      System.out.println("Nurullah Dormaz");
+      System.out.println("Eric");
+      
+      }
+}

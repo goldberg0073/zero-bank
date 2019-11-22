@@ -1,0 +1,27 @@
+package day7_unary;
+
+public class Hicham_raja {
+
+
+public static void main(String[] args) {
+	
+	
+ 	int num1=38 , num2=10 , max=10;
+ 	
+ 	
+ 	if (num1> num2) {
+ 		
+	System.out.println("max="+num1);
+ 	} 
+ 	else {
+ 		System.out.println("max="+num2);
+	
+ 	}
+	
+	
+	
+}
+
+
+
+}

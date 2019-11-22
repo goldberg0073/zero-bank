@@ -1,0 +1,20 @@
+package d52_interface;
+
+public interface InterfaceIntro {  // this is not a class " it's a blueprint" so cannot be super class(can not be inherited)
+	
+	public abstract void methodA();
+	
+
+}
+//class Test extends InterfaceIntro{        this class Test can not extends the interface "class!!!!!"
+//	                                       in that case we use the Implements key work 
+//}                     
+
+class Test implements InterfaceIntro{
+	
+	@Override
+	public void methodA() {
+		
+	}
+	
+}

@@ -1,0 +1,17 @@
+package day7_unary;
+
+public class Hicham_raja {
+
+
+public static void main(String[] args) {
+	
+	
+ System.out.println("bonjour tout le monde\n");
+ System.out.println("ici c'est casablanca\f");
+ System.out.println("dima dima \"raja\" ");
+	
+}
+
+
+
+}

@@ -1,0 +1,25 @@
+package Day03_variables;
+
+public class Primitive_data_types {
+
+/* 
+ byte:
+ 
+ 
+ 
+ 
+ 
+ */
+
+public static void main(String[] args) {
+	
+	byte Length = 3;
+	System.out.println("Length");
+	byte Width = 4;
+	System.out.println("Eidth");
+}
+
+
+
+
+}

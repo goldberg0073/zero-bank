@@ -1,0 +1,24 @@
+package day09;
+
+public class ClassQouiz {
+
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		boolean a=!!false;
+	            // !true
+		System.out.println(a);
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,36 @@
+package day7_unary;
+
+public class Hicham_raja {
+
+public static void main(String[] args) {
+	
+	int num=5;
+	switch (num) {
+	case 7 : 
+		System.out.println("Sunday");
+		break;
+	
+	default: 
+		
+		System.out.println("invalid ENTRY");
+		break;
+		
+	}
+			
+			
+			
+			
+	
+	
+	
+	
+	
+}
+
+}	
+
+	
+	
+	
+
+

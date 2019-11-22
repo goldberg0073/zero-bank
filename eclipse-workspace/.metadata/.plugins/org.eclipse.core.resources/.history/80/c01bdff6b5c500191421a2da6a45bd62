@@ -1,0 +1,54 @@
+package day09;
+
+public class ClassQouiz {
+
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		boolean a=!!!!!false;// ! ! ! ! ! false ==> !false == true;  twos exclamation marks eliminate each others
+	            // !!!true
+		System.out.println(a);
+		System.out.println(!!!true); // output is false ==> !true ==false
+		// question 2 
+		boolean result=!false!=("batch12" !="Best BAtch Ever");
+		// true != true
+		// false
+		System.out.println(result);
+		
+		//question 03:
+			int x =100;
+		double y =x+=100/20; // x=105, y=105
+		System.out.println(x);
+		
+		
+		//question04:
+		
+		boolean A=128>'9'  ||  128==127 ;
+		         //true         // false  ==> true
+		
+		System.out.println(A);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+}

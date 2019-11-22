@@ -1,0 +1,36 @@
+package day10_IfStatement;
+
+public class Multi_branch {
+
+public static void main(String[] args) {
+	
+	
+	int Grade =65;
+
+	if (Grade>=60&& Grade<=100 ) {
+		System.out.println("you passed");
+	}
+		else if (Grade>=60 && Grade<70) 
+			System.out.println("with a grade of D");
+		
+			else if (Grade>=70 && Grade<80) 
+				System.out.println("with a grade of C");
+			
+				else if (Grade>=80 && Grade <90) 
+					System.out.println("with a grade of B");
+				
+				else if (Grade>=90 && Grade <=100) 
+					System.out.println("with a grade of A");
+				
+	
+}
+
+}
+
+
+
+
+
+
+
+

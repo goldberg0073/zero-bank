@@ -1,0 +1,43 @@
+package day09;
+
+public class If_Statement {
+
+	
+	/*
+	 if statements:
+	 
+	  single if statement :
+	  
+	  if (boolean expression)  {
+	  
+	     some codes to run
+	 
+	  }
+	      if block only gets executed if the conditions is true 
+	   
+	 */
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+	if (9>89)   {
+		System.out.println("hello");
+		System.out.println("happy friday");
+		System.out.println("tomorow is day off");
+		
+	}
+	
+		
+		
+		
+		
+		
+	}
+
+
+
+
+
+}
