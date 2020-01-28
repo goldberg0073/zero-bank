@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27936b14-d04b-4fa6-9eff-a43eb3ceccd9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WnjNSh6PPpdumOfBOBdWvyU4hD" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestsUsingPojos.AllTheEmployeesCount">
+    <configuration name="GsonDemo.deserializeThis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Day04" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day04.GsonDemo" />
+      <option name="METHOD_NAME" value="deserializeThis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GsonDemo.serializeThis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Day04" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day04.GsonDemo" />
+      <option name="METHOD_NAME" value="serializeThis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsUsingPojos.AllTheEmployeesCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Day04" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day04.TestsUsingPojos" />
+      <option name="METHOD_NAME" value="AllTheEmployeesCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsUsingPojos.getASinglie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Day04" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day04.TestsUsingPojos" />
+      <option name="METHOD_NAME" value="getASinglie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsUsingPojos.getOneEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer-2019-rest-assured-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.Day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.Day04" />
+      <option name="MAIN_CLASS_NAME" value="tests.Day04.TestsUsingPojos" />
+      <option name="METHOD_NAME" value="getOneEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestsUsingPojos.AllTheEmployeesCount" />
+        <item itemvalue="JUnit.TestsUsingPojos.getOneEmployee" />
+        <item itemvalue="JUnit.TestsUsingPojos.getASinglie" />
+        <item itemvalue="JUnit.GsonDemo.serializeThis" />
+        <item itemvalue="JUnit.GsonDemo.deserializeThis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27936b14-d04b-4fa6-9eff-a43eb3ceccd9" name="Default Changelist" comment="" />
+      <created>1579792215838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579792215838</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1580243850477">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="453" y="70" key="#com.intellij.ide.util.MemberChooser/0.23.1280.731@0.23.1280.731" timestamp="1580243850477" />
+    <state x="196" y="312" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580162394358">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="196" y="312" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1280.23.1920.1057/0.23.1280.733@0.23.1280.733" timestamp="1580162394358" />
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom" timestamp="1580248201110">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/0.23.1280.731@0.23.1280.731" timestamp="1580242720170" />
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1580248201110" />
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1580245683226" />
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.731@0.23.1280.731" timestamp="1580190470737" />
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.732@0.23.1280.732" timestamp="1580234461509" />
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.733@0.23.1280.733" timestamp="1580181428162" />
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.734@0.23.1280.734" timestamp="1580226262756" />
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.735@0.23.1280.735" timestamp="1579883825716" />
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.736@0.23.1280.736" timestamp="1579894011245" />
+    <state width="1238" height="220" key="GridCell.Tab.0.center" timestamp="1580248201109">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.center/0.23.1280.731@0.23.1280.731" timestamp="1580242720169" />
+    <state width="1238" height="220" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1580248201109" />
+    <state width="1238" height="176" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1580245683225" />
+    <state width="1238" height="176" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.731@0.23.1280.731" timestamp="1580190470736" />
+    <state width="1238" height="176" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.732@0.23.1280.732" timestamp="1580234461507" />
+    <state width="1238" height="176" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.733@0.23.1280.733" timestamp="1580181428161" />
+    <state width="1238" height="176" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.734@0.23.1280.734" timestamp="1580226262755" />
+    <state width="1238" height="176" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.735@0.23.1280.735" timestamp="1579883825715" />
+    <state width="1238" height="176" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.736@0.23.1280.736" timestamp="1579894011244" />
+    <state width="1238" height="220" key="GridCell.Tab.0.left" timestamp="1580248201109">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.left/0.23.1280.731@0.23.1280.731" timestamp="1580242720168" />
+    <state width="1238" height="220" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1580248201109" />
+    <state width="1238" height="176" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1580245683225" />
+    <state width="1238" height="176" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.731@0.23.1280.731" timestamp="1580190470735" />
+    <state width="1238" height="176" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.732@0.23.1280.732" timestamp="1580234461506" />
+    <state width="1238" height="176" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.733@0.23.1280.733" timestamp="1580181428160" />
+    <state width="1238" height="176" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.734@0.23.1280.734" timestamp="1580226262754" />
+    <state width="1238" height="176" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.735@0.23.1280.735" timestamp="1579883825714" />
+    <state width="1238" height="176" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.736@0.23.1280.736" timestamp="1579894011243" />
+    <state width="1238" height="220" key="GridCell.Tab.0.right" timestamp="1580248201110">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.right/0.23.1280.731@0.23.1280.731" timestamp="1580242720169" />
+    <state width="1238" height="220" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1580248201110" />
+    <state width="1238" height="176" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1580245683226" />
+    <state width="1238" height="176" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.731@0.23.1280.731" timestamp="1580190470736" />
+    <state width="1238" height="176" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.732@0.23.1280.732" timestamp="1580234461508" />
+    <state width="1238" height="176" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.733@0.23.1280.733" timestamp="1580181428161" />
+    <state width="1238" height="176" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.734@0.23.1280.734" timestamp="1580226262756" />
+    <state width="1238" height="176" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.735@0.23.1280.735" timestamp="1579883825716" />
+    <state width="1238" height="176" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.736@0.23.1280.736" timestamp="1579894011244" />
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom" timestamp="1580248201111">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1580248201111" />
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.733@0.23.1280.733" timestamp="1580245497725" />
+    <state width="1238" height="220" key="GridCell.Tab.1.center" timestamp="1580248201111">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1580248201111" />
+    <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.733@0.23.1280.733" timestamp="1580245497724" />
+    <state width="1238" height="220" key="GridCell.Tab.1.left" timestamp="1580248201110">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1580248201110" />
+    <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.733@0.23.1280.733" timestamp="1580245497724" />
+    <state width="1238" height="220" key="GridCell.Tab.1.right" timestamp="1580248201111">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.732@0.23.1280.732" timestamp="1580248201111" />
+    <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.733@0.23.1280.733" timestamp="1580245497725" />
+    <state x="435" y="164" key="chooseDestDirectoryDialog" timestamp="1579902597312">
+      <screen x="0" y="23" width="1280" height="736" />
+    </state>
+    <state x="435" y="164" key="chooseDestDirectoryDialog/1280.23.1920.1057/0.23.1280.736@0.23.1280.736" timestamp="1579902597312" />
+    <state x="319" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1580224800651">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="319" y="211" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.731@0.23.1280.731" timestamp="1580177233941" />
+    <state x="319" y="212" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.733@0.23.1280.733" timestamp="1580224800651" />
+    <state x="319" y="212" key="com.intellij.ide.util.TipDialog/1280.23.1920.1057/0.23.1280.736@0.23.1280.736" timestamp="1579792254121" />
+    <state x="232" y="109" width="816" height="540" key="find.popup" timestamp="1580177257673">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="232" y="109" width="816" height="540" key="find.popup/1280.23.1920.1057/0.23.1280.731@0.23.1280.731" timestamp="1580177257673" />
+    <state x="232" y="109" width="816" height="540" key="find.popup/1280.23.1920.1057/0.23.1280.735@0.23.1280.735" timestamp="1579881879237" />
+    <state x="305" y="79" width="670" height="676" key="search.everywhere.popup" timestamp="1580182170989">
+      <screen x="0" y="23" width="1280" height="731" />
+    </state>
+    <state x="305" y="79" width="670" height="676" key="search.everywhere.popup/1280.23.1920.1057/0.23.1280.731@0.23.1280.731" timestamp="1580182170989" />
+    <state x="305" y="79" width="670" height="676" key="search.everywhere.popup/1280.23.1920.1057/0.23.1280.732@0.23.1280.732" timestamp="1580180365033" />
+  </component>
+</project>
