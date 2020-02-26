@@ -1,0 +1,120 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9816622935,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "the user is in the login page",
+            "match": {
+              "location": "LoginStepsDefs.the_user_is_in_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 523706052,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the authorized user enter valid credentials \"username\" and \"password\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"username\"",
+                  "offset": 44
+                },
+                {
+                  "val": "\"password\"",
+                  "offset": 59
+                }
+              ],
+              "location": "LoginStepsDefs.the_authorized_user_enter_valid_credentials_and(String,String)"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-01-06T07:07:58.895Z",
+        "line": 31,
+        "name": "Checking account redirect",
+        "description": "",
+        "id": "navigation-in-account-activity;checking-account-redirect",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1199563118,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "the user clicks on \"Loan\" link on the Account Summary page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Loan\"",
+                  "offset": 19
+                }
+              ],
+              "location": "AccountActivityNavigationStepsDefs.the_user_clicks_on_link_on_the_account_Summary_page(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 87764617,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "the Account Activity page should be displayed",
+            "match": {
+              "location": "AccountActivityNavigationStepsDefs.the_Account_Activity_page_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 395595100,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "Account drop down should have \"Loan\" selected",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Loan\"",
+                  "offset": 30
+                }
+              ],
+              "location": "AccountActivityNavigationStepsDefs.account_drop_down_should_have_selected(String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Loan"
+          }
+        ]
+      }
+    ],
+    "name": "navigation in Account Activity",
+    "description": "",
+    "id": "navigation-in-account-activity",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/AccountActivityNavigation.feature",
+    "tags": []
+  }
+]
