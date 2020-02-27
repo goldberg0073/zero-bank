@@ -37,6 +37,26 @@ public class LoginStepsDefs {
         Assert.assertEquals(Page, (new BasePage()).NavigationTabs.get(0).getText());
     }
 
+    @When("the users enter wrong credentials")
+    public void the_users_enter_wrong_credentials() {
+        LoginPage loginPage=new LoginPage();
+        loginPage.login(ConfigurationReader.get("wrongusername"),ConfigurationReader.get("wrongpassword"));
+    }
+
+    @Then("error message should displayed {string}")
+    public void error_message_should_displayed(String errorMessage) {
+         errorMessage="Login and/or password are wrong.";
+        LoginPage loginPage=new LoginPage();
+       String actual =loginPage.Error.getText();
+       Assert.assertEquals(actual,errorMessage);
+    }
+
+    @When("users logs in with username {string} or password {string}")
+    public void users_logs_in_with_username_or_password(String string, String string2) {
+        LoginPage loginPage=new LoginPage();
+        loginPage.login(ConfigurationReader.get("blankusername"),ConfigurationReader.get("blankpassword"));
+    }
+
 
 
 

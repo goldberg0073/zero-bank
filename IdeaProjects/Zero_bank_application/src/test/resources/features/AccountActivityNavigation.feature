@@ -1,4 +1,4 @@
-@smoke_test
+@smoke
 Feature: navigation in Account Activity
 Background:
   Given the user is in the login page
